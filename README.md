@@ -33,4 +33,5 @@ We now have a **pattern** that we know all email addresses must follow. We use R
 
 Regex came about in the 1950's and 1960's in various forms. Among the first appearances of regular expressions in program form was when Ken Thompson built Kleene's notation into the editor QED as a means to match patterns in text files (Wikipedia). Since then, there have been various implementations of Regular Expressions developed. We'll be using Ruby Regular Expressions with is mostly based off the PERL language.
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+### When to use Regex
+Regular expressions are an extremely powerful way to search through strings and blocks of text for specific patterns. They can be used for data validation, searching, mass file renaming, finding records in a database. 
