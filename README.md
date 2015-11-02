@@ -22,7 +22,7 @@ Say you're working at your new job as a developer and your supervisor asks your 
 We now have a **pattern** that we know all email addresses must follow. We use Regular Expressions, or **Regex** to encode these patterns for matching, searching, and substitution. Here's a sample regex for email validation:
 
 ```
-/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/
+/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}/i
 ```
 If this doesn't make any sense, don't worry. We'll be covering how to write and read regular expressions shortly.
 
