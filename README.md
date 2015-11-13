@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Say you're working at your new job as a developer and your supervisor asks your to build in validation for the email field in the company's signup form. There have recently been a lot of sign-ups with invalid email addresses ("joeflatiron.com", "@helloworld.com", "$%!-adam@gmail.com"). You sit down and come up with a set of rules that any email address should adhere to (stop reading and see how many you can come up with.):
+Say you're working at your new job as a developer and your supervisor asks you to build in validation for the email field in the company's signup form. There have recently been a lot of sign-ups with invalid email addresses ("joeflatiron.com", "@helloworld.com", "$%!-adam@gmail.com"). You sit down and come up with a set of rules that any email address should adhere to (stop reading and see how many you can come up with.):
 
 + Numbers, letters, dashes, and underscores are ok.
 + Uppercase and lowercase letters are ok.
