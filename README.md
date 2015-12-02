@@ -37,3 +37,5 @@ Regex came about in the 1950's and 1960's in various forms. Among the first appe
 
 ### When to use Regex
 Regular expressions are an extremely powerful way to search through strings and blocks of text for specific patterns. They can be used for data validation, searching, mass file renaming, and finding records in a database. Use them carefully - they are like a surgeon's scalpel: Able to do a lot of harm or good, depending on how well it is wielded.
+
+<a href='https://learn.co/lessons/regex-what-is-a-pattern' data-visibility='hidden'>View this lesson on Learn.co</a>
