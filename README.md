@@ -1,6 +1,6 @@
-# RegEx - What Is A Pattern?
+# What Is A Pattern?
 
-## Objectives
+## Learning Goals
 
 - Understand the purpose of patterns and regular expressions ("RegEx").
 - Learn a bit about the history of RegEx.
